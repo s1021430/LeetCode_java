@@ -1,6 +1,6 @@
-package BestTimetoBuyandSellStock;
+package bestTimetoBuyandSellStock;
 
-public class BestTimetoBuyandSellStock {
+public class solution {
     public int maxProfit(int[] prices) {
         var buy = prices[0];
         var maxProfit = 0;

@@ -1,9 +1,9 @@
-package ValidParentheses;
+package validParentheses;
 
 import java.util.HashMap;
 import java.util.Stack;
 
-public class ValidParentheses {
+public class solution {
     public static boolean isValid(String s) {
         if (s.length() % 2 == 1)
             return false;

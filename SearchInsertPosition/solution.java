@@ -1,6 +1,6 @@
 package SearchInsertPosition;
 
-public class SearchInsertPosition {
+public class solution {
     public int searchInsert(int[] nums, int target) {
         if(target > nums[nums.length-1])
             return nums.length;

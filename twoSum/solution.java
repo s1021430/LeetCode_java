@@ -2,7 +2,7 @@ package twoSum;
 
 import java.util.HashMap;
 
-public class twoSum {
+public class solution {
     public static int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         HashMap<Integer, Integer> map = new HashMap<>();
